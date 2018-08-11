@@ -1,4 +1,5 @@
 import custom_module.Search_module as search
+# import Search_module-1.0 as search
 
 foundLetters = search.search4Letters(letters="abc", phrase="universe and everything")
 # foundLetters = search4Letters("universe and everything")    # default value for letters is considered
