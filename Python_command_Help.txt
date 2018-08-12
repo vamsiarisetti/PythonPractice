@@ -15,3 +15,11 @@ Command to install Pep8
 
 Command to check PEP8 compliancefor our code
 ## py.test  --pep8  Search_module.py
+
+---------------------------------------------------------------------------
+
+## install flask
+py -3 -m pip install flask
+
+## run falsk demo file
+py - wenapptest.py

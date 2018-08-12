@@ -3,6 +3,8 @@ def double(arg):
     print('Before: ',arg)
     arg = arg * 3
     print('After: ',arg)
+    
+    return arg
 
 # Pass By-Reference
 def change(arg):
