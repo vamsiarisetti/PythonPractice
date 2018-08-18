@@ -22,4 +22,8 @@ Command to check PEP8 compliancefor our code
 py -3 -m pip install flask
 
 ## run falsk demo file
-py - wenapptest.py
+py -3 wenapptest.py
+
+---------------------------------------------------------------------------
+
+Default IDLE PATH : C:\Users\vamsi\AppData\Local\Programs\Python\Python37-32
