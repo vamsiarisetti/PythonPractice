@@ -60,6 +60,4 @@ def view_log() -> 'html':
                            the_data=content,)
 
 # app.run(debug=True, host='192.168.0.108')
-
-# if __name__ == '__main__':
 app.run(debug=True)
