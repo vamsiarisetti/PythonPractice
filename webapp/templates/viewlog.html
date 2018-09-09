@@ -1,10 +1,15 @@
 {% extends 'base.html' %}
 
-{% block body %}
+<style type="text/css">
+.demo {
+    font-size: 14px;
+}
+</style>
 
+{% block body %}
 <h2>{{ the_title }}</h2>
 
-<table>
+<table class="demo">
     <tr>
         {% for row_title in the_row_titles %}
             <th>{{row_title}}</th>
